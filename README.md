@@ -138,7 +138,7 @@ The output of this program shows you the most likely name that might have been r
 
 
 ## Related Links
-https://oudatalab.com/cs5293sp22/projects/project3
-https://scikit-learn.org/stable/supervised_learning.html#supervised-learning
-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
-https://www.nltk.org/
+- https://oudatalab.com/cs5293sp22/projects/project3
+- https://scikit-learn.org/stable/supervised_learning.html#supervised-learning
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+- https://www.nltk.org/
