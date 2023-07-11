@@ -1,8 +1,11 @@
-# cs5293sp22-project3 -- The Unredactor
-## Author Nasri Binsaleh
+# The Unredactor
+# Author Nasri Binsaleh
 
+Original repo name: cs5293sp22-project3
 
-## Heads up! The program can take some time to run, please don't give up on waiting! 
+#### This is the unredactor where the program can predict the what would be the most likely names that were in the texts before they were redacted. 
+
+#### Heads up! The program can take some time to run, please don't give up on waiting! 
 
 # How to install, directions on how to use the code, and some example of how to run.
 
